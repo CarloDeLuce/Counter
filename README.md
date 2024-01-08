@@ -5,7 +5,7 @@ Aumenta e diminuisci il tuo contatore con un solo clic!
 <br />
 
 ## Indice
-[Esempio](#esempio) [Descrizione](#descrizione) [Come usarlo](#come_usarlo)  
+[Esempio](#esempio) [Descrizione](#descrizione) [Come usarlo](#come-usarlo)  
 <br />
 <br />
 ## Esempio
