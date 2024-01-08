@@ -4,7 +4,8 @@ Aumenta e diminuisci il tuo contatore con un solo clic.
 <br />
 <br />
 
-[Esempio](#esempio)
+## Indice
+[Esempio](#esempio) [Descrizione](#descrizione) 
 
 
 ## Esempio
@@ -13,6 +14,9 @@ Aumenta e diminuisci il tuo contatore con un solo clic.
 <br />
 <br />
 <br />
+
+## Descrizione
+
 Ti basterà premere sul pulsante "+" per aumentare il contatore di 1, e cliccare sul pulsante "-" per sottrare una unità.
 
 
