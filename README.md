@@ -1,6 +1,6 @@
 # Counter: Aumenta e diminuisci il tuo contatore con un solo clic.
 
-Ti basterà premere sul pulsante "+" per aumentare il contatore di 1, e cliccare sul pulsante "-" per sottrare una unità.
+Ti basterà premere sul pulsante "+" per aumentare il contatore di 1, e cliccare sul pulsante "-" per sottrare una unità.<br />
 [Iniziamo](#iniziamo)
 
 
