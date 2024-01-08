@@ -1,6 +1,8 @@
 # Counter
 
-Aumenta e diminuisci il tuo contatore con un solo clic.<br />
+Aumenta e diminuisci il tuo contatore con un solo clic.
+<br />
+<br />
 
 [Esempio](#esempio)
 
