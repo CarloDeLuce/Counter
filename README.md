@@ -18,7 +18,8 @@ Aumenta e diminuisci il tuo contatore con un solo clic!
 ## Descrizione
 
 Ti basterà premere sul pulsante "+" per aumentare il contatore di 1, e cliccare sul pulsante "-" per sottrare una unità.
-
+<br />
+<br />
 ## Come usarlo 
 
 Per poter utilizzare questo sofisticatissimo programma ti basterà:
