@@ -1,5 +1,4 @@
-# Counter
-## Aumenta e diminuisci il tuo contatore con un solo clic.
+# Counter: Aumenta e diminuisci il tuo contatore con un solo clic.
 
 
 
