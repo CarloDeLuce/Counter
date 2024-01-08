@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+   
+.case_counter {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+.counter{
+    font-size: 4em;
+}
+
+.case_button {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    padding: 50px;
+    margin-top: 50px;
+}
+
+ 
+.button {
+  padding: 50px 100px;
+  border-radius: 30px;
+  font-size: 1.5em;
+  border: none;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  background-color: #216a81;
+  color: white;
+}
+
+.button:hover{
+    background-color: #30c5f2;
+} 
+
+
+.case_title {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
