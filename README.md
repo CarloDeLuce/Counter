@@ -6,8 +6,8 @@ Aumenta e diminuisci il tuo contatore con un solo clic!
 
 ## Indice
 [Esempio](#esempio) [Descrizione](#descrizione) [Come usarlo](#come_usarlo)  
-
-
+<br />
+<br />
 ## Esempio
 
 ![Gif Counter](https://github.com/CarloDeLuce/Counter/assets/155926130/2b4a1d89-44ea-4334-a604-9328ad9c97dc)
